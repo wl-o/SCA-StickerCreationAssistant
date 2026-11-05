@@ -4,6 +4,10 @@
 
 用关键词批量生成可发布图文，支持改写长文、讨论引导、无版权图库配图，以及 Windows 桌面端打包。API Key 与内容库只保存在本机，**不会上传到任何服务器**。
 
+> **Windows 安装包（Release v0.1.0）**  
+> 👉 [点击下载 SCA-StickerCreationAssistant-0.1.0-Setup.exe](https://github.com/wl-o/SCA-StickerCreationAssistant/releases/download/v0.1.0/SCA-StickerCreationAssistant-0.1.0-Setup.exe)（约 102 MB）  
+> 发布页：[Releases](https://github.com/wl-o/SCA-StickerCreationAssistant/releases/tag/v0.1.0)
+
 ## 功能概览
 
 - **批量创作**：关键词 → 选题 → 批量生成正文 / 标题 / 讨论引导
