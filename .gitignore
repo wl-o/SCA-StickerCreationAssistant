@@ -1,0 +1,38 @@
+# Dependencies
+node_modules
+
+# Build
+dist
+dist-ssr
+dist-server
+release
+*.local
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# TypeScript
+*.tsbuildinfo
+
+# Local SQLite database & cached images (may contain API keys / private content)
+data/
+!data/.gitkeep
+*.sqlite
+*.sqlite-*
+tmp-electron-data/
+
+# Packaged app leftovers / OS junk
+Thumbs.db
+Desktop.ini
