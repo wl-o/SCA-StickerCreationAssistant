@@ -113,11 +113,14 @@ npm run dev
 
 在设置 → **配图图库** 中配置其一即可开始搜图：
 
-- Unsplash Access Key
+- Unsplash Access Key（推荐）
 - Pexels API Key
 - Pixabay API Key
 
 未配置时仍可创作文案，但无法在线搜图配图。
+
+**Unsplash Key 怎么申请？**  
+请看完整图文步骤：**[Unsplash API Key 申请教程](docs/unsplash-api-guide.md)**（也可直接打开 [Unsplash Developers](https://unsplash.com/developers) 注册应用并复制 Access Key）。
 
 ### 3. 人设与模板
 
