@@ -51,6 +51,15 @@ npm run dev
 | `npm run electron:dev` | Electron 联调（勿与 `npm run dev` 同时抢端口） |
 | `npm run electron:build` | 打 Windows NSIS 安装包，产物在 `release/` |
 
+## Windows 安装包
+
+可直接下载已打包的 Windows 安装包（无需自己编译）：
+
+- **[Releases · SCA-StickerCreationAssistant](https://github.com/wl-o/SCA-StickerCreationAssistant/releases)**  
+  下载最新的 `AI贴图创作助手-*-Setup.exe`，安装后打开即可使用。
+
+安装后请到「设置」里自行填写 DeepSeek API Key（以及可选的配图图库 Key）。本仓库与安装包内**不包含**任何密钥。
+
 ## 配置说明
 
 首次打开左侧 **设置** 页面完成配置。所有 Key **只写进本机 SQLite**（开发环境在项目 `data/`，桌面版在 `%AppData%`），请勿把真实 Key 提交到 Git。
