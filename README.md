@@ -55,8 +55,8 @@ npm run dev
 
 可直接下载已打包的 Windows 安装包（无需自己编译）：
 
-- **[Releases · SCA-StickerCreationAssistant](https://github.com/wl-o/SCA-StickerCreationAssistant/releases)**  
-  下载最新的 `AI贴图创作助手-*-Setup.exe`，安装后打开即可使用。
+- **[Releases · SCA-StickerCreationAssistant](https://github.com/wl-o/SCA-StickerCreationAssistant/releases/tag/v0.1.0)**  
+  下载 `SCA-StickerCreationAssistant-0.1.0-Setup.exe`（约 102 MB），安装后打开即可使用。
 
 安装后请到「设置」里自行填写 DeepSeek API Key（以及可选的配图图库 Key）。本仓库与安装包内**不包含**任何密钥。
 
