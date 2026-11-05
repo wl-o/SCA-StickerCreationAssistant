@@ -16,6 +16,32 @@
 - **配图**：Unsplash / Pexels / Pixabay 检索与本地缓存（需自行配置图库 Key）
 - **桌面端**：Electron 打包 Windows 安装包，数据落在用户目录
 
+## 界面预览
+
+### 创作
+
+选择关键词、方向、风格与人设后，一键批量生成贴图号文案。
+
+![创作页](docs/images/screenshot-creation.png)
+
+### 改写
+
+左贴原文、中改文案、右做封面配图；支持缩略改写与保留关键改写。
+
+![改写页](docs/images/screenshot-rewrite.png)
+
+### 内容模板
+
+内置情绪共鸣、观点冲突、故事型、反常识等结构模板，也可自定义。
+
+![内容模板](docs/images/screenshot-templates.png)
+
+### 设置
+
+配置 DeepSeek / OpenAI 等模型与配图图库；Key 仅保存在本机 SQLite。
+
+![设置页](docs/images/screenshot-settings.png)
+
 ## 技术栈
 
 | 层级 | 技术 |
